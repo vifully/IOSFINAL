@@ -1,4 +1,5 @@
 
+VIDEO : https://www.youtube.com/watch?v=-HUdW3DgPss&feature=youtu.be
 ---
 # Muse Me - Nafin Vwich
 ---
@@ -57,30 +58,32 @@ Muse Me is a mobile first creative writing app that gives users daily timed writ
 
 ### 2. Screen Archetypes
 
-**Home / Timeline Screen**
+**Home / Prompt Screen** X
+- created a logo
+- Created the background
+
+- made associated labels to it
 
 * Associated Stories: View responses from people you follow, like and comment on posts.
 
-**Daily Prompt Screen**
+**Daily Timeline Screen**
+- created background
 
 * Associated Stories: Receive a daily writing prompt, write a response within the time limit, submit the response.
 
 **Profile Screen**
+-created background
 
 * Associated Stories: Edit profile, view own posts and stats, track writing streaks.
-
-**Notifications Screen**
-
-* Associated Stories: See likes, comments, and social interactions.
-
 ---
 
 ### 3. Navigation
 
 **Tab Navigation (Tab to Screen)**
 
-* Home - Timeline
-* Prompt - Daily Prompt Writing
+**YOU ARE ABLE TO CLICK AND NAVIGATE TO EACH SCREEN**
+* Home - Daily Prompt Writing - 
+* Timeline - 
 * Profile - User Profile / Streaks
 * Notifications - Social Interactions
 * Challenges - Optional Challenges & Rankings
